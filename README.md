@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Johnnyh29
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning
+Hi, my name is Johnny and nice to meet you.
 
 <!---
 Johnnyh29/Johnnyh29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
